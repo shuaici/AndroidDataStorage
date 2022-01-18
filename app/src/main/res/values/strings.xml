@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidDataStorage</string>
+    <string name="str_file_storage">文件存储</string>
+    <string name="str_input_hint">请输入内容</string>
+    <string name="str_file_write">写入</string>
+    <string name="str_file_read">读取</string>
+    <string name="str_look_filelist">查看文件列表</string>
+    <string name="str_file_delete">删除文件</string>
+    <string name="str_create_cache_files">创建缓存文件</string>
+    <string name="str_delete_cache_files">删除缓存文件</string>
+</resources>
